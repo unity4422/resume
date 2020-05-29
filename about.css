@@ -1,0 +1,19 @@
+body{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.img_wrap{
+	width: 100%;
+}
+#aboutus h2{
+	margin-bottom: 25px;
+}
+
+.img_wrap img{
+	width: 100%;
+	padding: 10px;
+	border-radius: 50%;
+	box-shadow: 0 0 30px #999999;
+}
